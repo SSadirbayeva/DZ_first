@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DZ_first</string>
+    <string name="description"> Тестовое текстовое поле для проверки локализации от 28 июня 2018 года</string>
+</resources>

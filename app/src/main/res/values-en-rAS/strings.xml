@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DZ_first</string>
+    <string name="description"> Test text field for localization check from June 28, 2018</string>
+</resources>
